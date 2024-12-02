@@ -61,7 +61,7 @@ Download DIOR-R dataset from [url](https://gcheng-nwpu.github.io/) and save in `
 
 ## 🎶 Model Training
 
-The following demonstrates the model training process under the DIOR-R dataset, firstly preparing the pytorch environment in [INSTALL](### Conda environment setup) and the training dataset in [DATASETS](datasets/README.md), then downloading the SD weights fine-tuned on remote sensing images to the ckpt folder at this [url](https://huggingface.co/Sonetto702/AeroGen) & put it to `./ckpt/`, and finally executing the following commands in sequence:
+The following demonstrates the model training process under the DIOR-R dataset, firstly preparing the pytorch environment and the training dataset in [DATASETS](datasets/README.md), then downloading the SD weights fine-tuned on remote sensing images to the ckpt folder at this [url](https://huggingface.co/Sonetto702/AeroGen) & put it to `./ckpt/`, and finally executing the following commands in sequence:
 
 ```bash
 conda activate aerogen
@@ -71,7 +71,7 @@ bash configs/stable-diffusion/hrsc/v1-finetune-DIOR-R.yaml
 The more information and options an find in `./main.py` and `./configs/stable-diffusion/dual/v1-finetune-DIOR-R.yaml`
 
 ## 📡 Contact
-If you have any questions about the paper or the code, feel free to email me at [this e-mail](aryswph@gmail.com). This ensures I can promptly notice and respond!
+If you have any questions about the paper or the code, feel free to email me at [aryswph@gmail.com](mailto:aryswph@gmail.com). This ensures I can promptly notice and respond!
 
 ## 💕 Acknowledgments:
 This repo is built upon [Stable Diffusion](https://github.com/CompVis/stable-diffusion/tree/main), [ControlNet](https://github.com/lllyasviel/ControlNet/tree/main), [CLIP](https://github.com/openai/CLIP), [GLIGEN](https://github.com/gligen/GLIGEN/tree/master). Sincere thanks to their excellent work!
