@@ -1,6 +1,6 @@
 # AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation
 
-<a href='https://arxiv.org/abs/2411.15497'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>  <a href=#bibtex><img src='https://img.shields.io/badge/Paper-BibTex-Green'></a> 
+<a href='https://arxiv.org/abs/2411.15497'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>  <a href=#citation><img src='https://img.shields.io/badge/Paper-BibTex-Green'></a> 
 <a href='https://huggingface.co/Sonetto702/AeroGen'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-AeroGen_Model-blue'></a>
 
 
