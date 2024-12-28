@@ -66,7 +66,7 @@ The following demonstrates the model training process under the DIOR-R dataset, 
 ```bash
 conda activate aerogen
 python src/train/prepare_weight_r.py
-bash configs/stable-diffusion/hrsc/v1-finetune-DIOR-R.yaml
+bash configs/stable-diffusion/dual/v1-finetune-DIOR-R.yaml
 ```
 The more information and options an find in `./main.py` and `./configs/stable-diffusion/dual/v1-finetune-DIOR-R.yaml`
 
