@@ -32,7 +32,7 @@ You can download pre-trained models from this [huggingface url](https://huggingf
 
 You can the following code to generate images more quickly by:
 ```bash
-python src/test/inference/inference.py
+python src/inference/inference.py
 ```
 You can find the relevant layout files for the presentation in `./demo/` where you can find the relevant layout files for the display.
 The following is the example of the generated image.
