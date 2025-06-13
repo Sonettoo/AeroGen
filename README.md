@@ -1,6 +1,7 @@
-# AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation
+# [CVPR 25] AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation
 
 <a href='https://arxiv.org/abs/2411.15497'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>  <a href=#citation><img src='https://img.shields.io/badge/Paper-BibTex-Green'></a> 
+<a href='https://openaccess.thecvf.com/content/CVPR2025/html/Tang_AeroGen_Enhancing_Remote_Sensing_Object_Detection_with_Diffusion-Driven_Data_Generation_CVPR_2025_paper.html'><img src='https://img.shields.io/badge/Paper-CVPR-yellow'></a>
 <a href='https://huggingface.co/Sonetto702/AeroGen'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-AeroGen_Model-blue'></a>
 
 
